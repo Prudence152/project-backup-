@@ -1,0 +1,37 @@
+.header{
+   background-color: rgb(175, 147, 226);
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 13%;
+    padding: 3%;
+    padding-left: 10%;
+    color: rgb(19, 12, 26);
+    font-family: cursive;
+    border: dashed rgb(171, 222, 231) 6px;
+    
+}
+
+
+body{
+    background-image: url(vio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.koz{
+    margin-top: 20%;
+    margin left: 20px;
+
+    
+    
+}
+
+.oki{
+    color: brown;
+    margin-left: 60%;
+
+}
+
+
+    
